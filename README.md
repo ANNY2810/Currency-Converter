@@ -1,1 +1,1 @@
-# Currency-Converter
+I've poured my heart and soul into building a Currency Converter website, a valuable tool for converting currencies with ease and accuracy. With a user-friendly interface and real-time exchange rates, it's perfect for travelers, businesses, and online shoppers. Check out my code and see the hard work that went into creating this project!"# Currency-Converter
